@@ -45,7 +45,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.notion.so/15fb62a9a0d980ab9211c430148d6b39">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
   <a href="mailto:oka1313@gmail.com">
     <img
